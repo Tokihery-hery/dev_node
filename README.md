@@ -5,7 +5,7 @@
 
 ``git clone https://github.com/Tokihery-hery/node_graphQL.git``
 
-Et run npm install
+- Et run npm install
 
 ``npm install``
 
@@ -17,8 +17,9 @@ Et run npm install
 
 ``npm run start``
  
-Et serveur in localhost:4000/graphql
-
+- Et Endpoint  in 
+``localhost:4000/graphql
+``
 
 ## Fabriqué avec
 
