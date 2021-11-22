@@ -1,4 +1,4 @@
-# node_graphQL
+# GraphQL API with Apollo-server
 
 ### Installation npm
 - Cloner repository
